@@ -1,0 +1,14 @@
+.balance-card {
+    background-color: white;
+    border: 2px solid rgb(255, 255, 255);
+    padding: 20px;
+    margin-bottom: 20px;
+    width: 200px;
+    text-align: center;
+  }
+  
+  .balance-card h2 {
+    margin: 0;
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+  }
